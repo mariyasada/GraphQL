@@ -1,0 +1,65 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    align-items: center;
+    justify-content: center;
+    width: 98%;
+}
+.heading{
+    font-size: 24px;
+    color:rgb(69, 123, 211)
+}
+.usercards{
+    display: flex;
+    gap:20px;
+    align-items: center;
+    justify-content: center;
+   
+}
+.card{
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px gray;
+    padding: 10px;
+    width: 200px;
+}
+.moviecard{
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px gray;
+    padding: 10px;
+    width: 300px;
+}
+.name{
+    font-size: 18px;
+    color:blue
+}
+.inputsearch{
+    width:20rem;
+    border-radius: 10px;
+    outline:none;
+    padding: 7px;
+    border: 2px solid rgb(92, 92, 222);
+}
+.forminput{
+    width: 10rem;
+    padding: 7px;
+    border-radius: 10px;
+    outline:none;
+    border: 2px solid rgb(92, 92, 222);
+}
+.inputcontainer{
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap:20px;
+}
+button{
+    width: 8rem;
+    background: rgb(69, 183, 229);
+    padding: 7px;
+    border-radius: 10px;
+    border:1px solid rgb(94, 165, 208);
+    color: white;
+    font-weight: bold;
+}
