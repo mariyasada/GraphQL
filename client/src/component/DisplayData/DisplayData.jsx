@@ -156,7 +156,7 @@ const DisplayData = () => {
           >
             <option value="INDIA">INDIA</option>
             <option value="CANADA">CANADA</option>
-            <option value="UKRAIN">UKRAIN</option>
+            <option value="GERMANY">GERMANY</option>
             <option value="BRAZIL">BRAZIL</option>
             <option value="UKRAINE">UKRAINE</option>
           </select>
