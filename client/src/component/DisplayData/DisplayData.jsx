@@ -158,7 +158,7 @@ const DisplayData = () => {
             <option value="CANADA">CANADA</option>
             <option value="UKRAIN">UKRAIN</option>
             <option value="BRAZIL">BRAZIL</option>
-            <option value="UKRAIN">UKRAIN</option>
+            <option value="UKRAINE">UKRAINE</option>
           </select>
           {ID !== "" ? (
             <button
